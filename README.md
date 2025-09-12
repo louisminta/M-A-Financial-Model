@@ -2,12 +2,11 @@
 This project contains an Excel-based M&A model covering:
 - Assumptions and inputs
 - Sources and uses of funds
-- Write-ups & PPA
+- Write-ups & Purchase Price Allocation
 - Pro forma balance sheet analysis
 - Accretion / Dilution analysis
 - Sensitivity tables
 ## Files
-- **M&A_Model.xlsx** >>> full working model
-- **M&A_Model.pdf** >>> pdf read-only format
+- **M&A Financial Modeling Project - Disney Acquisition.xlsx** >>> fully integrated model
 ## Usage
-OPen 'M&A_Model.xlsx' in Excel. Adjust assumptions to see updated outputs.
+Open 'M&A Financial Modeling Project - Disney Acquisition.xlsx' in Excel.
