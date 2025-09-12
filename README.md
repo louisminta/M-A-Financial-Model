@@ -9,4 +9,4 @@ This project contains an Excel-based M&A model covering:
 ## Files
 - **M&A Financial Modeling Project - Disney Acquisition.xlsx** >>> fully integrated model
 ## Usage
-Open 'M&A Financial Modeling Project - Disney Acquisition.xlsx' in Excel.
+Open 'M&A Financial Modeling Project - Disney Acquisition.xlsx' and click 'view raw' to download worksheet.
